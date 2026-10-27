@@ -141,7 +141,7 @@ Everything above exists in source. Client coverage and full end-to-end acceptanc
 ## Related
 
 - [henryhcooperr profile](https://github.com/henryhcooperr)
-- [reef-grade-lab](https://github.com/henryhcooperr/reef-grade-lab)
+- [grade-lab](https://github.com/henryhcooperr/grade-lab)
 - [reef-social-lab](https://github.com/henryhcooperr/reef-social-lab)
 - [coopr](https://github.com/henryhcooperr/coopr)
 - [reef-algorithm-studies](https://github.com/henryhcooperr/reef-algorithm-studies)
