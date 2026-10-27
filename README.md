@@ -2,9 +2,9 @@
 
 **A native Mac editor that finds the moments in hours of dive footage, and lets an agent edit the same timeline I do.** I come back from a dive with hours of GoPro footage and maybe forty good seconds. Reef finds them, keeps every cut tied to the source frames it came from, and gives an assistant the same operations the app uses. When I'm done, it hands an editable timeline to DaVinci Resolve.
 
-<p align="center"><img src="assets/01-reef.png" width="880" alt="Put together from real Reef interface captures and Catalina footage, with a prepared conversation. It isn't one continuous live session; a screen recording replaces it next."></p>
+<p align="center"><img src="assets/01-reef.gif" width="880" alt="Put together from real Reef interface captures and Catalina footage, with a prepared conversation. It isn't one continuous live session; a screen recording replaces it next. Played at 3× speed."></p>
 
-<sub>Put together from real Reef interface captures and Catalina footage, with a prepared conversation. It isn't one continuous live session; a screen recording replaces it next.</sub>
+<sub>Put together from real Reef interface captures and Catalina footage, with a prepared conversation. It isn't one continuous live session; a screen recording replaces it next. Played at 3× speed.</sub>
 
 ## Why dive footage is hard
 
